@@ -137,6 +137,7 @@ public class MainActivity extends AppCompatActivity {
         // 예외 #2: 완성되지 않은 식입니다. 각 case마다 if문 삽입
 
         // 예외 #3: 연산부호 연속으로 입력 시 무반응
+        // github연동아 제발 되자
 
     }
 
