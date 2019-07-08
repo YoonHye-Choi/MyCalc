@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
 
         // 예외 #3: 연산부호 연속으로 입력 시 무반응
         // github연동아 제발 되자
+        // 푸시야 제발 되자
 
     }
 
